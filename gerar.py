@@ -13,7 +13,7 @@ if not os.path.exists('./resultado'):
     os.makedirs('./resultado')
 
 # Pasta de resultados (associado à conta github)
-url_github = 'https://DanielaTGomes.github.io/imagens_omeka/resultado/' 
+url_github = 'https://projeto-ANIMALx.github.io/imagens_omeka/resultado/' 
 
 gerador = IIIFStatic(dst='./resultado', prefix=url_github)
 
