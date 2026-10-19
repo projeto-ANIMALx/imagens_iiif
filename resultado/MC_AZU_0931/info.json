@@ -1,0 +1,66 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://projeto-ANIMALx.github.io/imagens_omeka/resultado//MC_AZU_0931",
+  "height": 637,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 159,
+      "width": 375
+    },
+    {
+      "height": 80,
+      "width": 188
+    },
+    {
+      "height": 40,
+      "width": 94
+    },
+    {
+      "height": 20,
+      "width": 47
+    },
+    {
+      "height": 10,
+      "width": 23
+    },
+    {
+      "height": 5,
+      "width": 12
+    },
+    {
+      "height": 2,
+      "width": 6
+    },
+    {
+      "height": 1,
+      "width": 3
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2
+      ],
+      "width": 512
+    }
+  ],
+  "width": 1500
+}

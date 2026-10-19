@@ -1,0 +1,66 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://projeto-ANIMALx.github.io/imagens_omeka/resultado//ML_AZU_2022",
+  "height": 1080,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 270,
+      "width": 185
+    },
+    {
+      "height": 135,
+      "width": 92
+    },
+    {
+      "height": 68,
+      "width": 46
+    },
+    {
+      "height": 34,
+      "width": 23
+    },
+    {
+      "height": 17,
+      "width": 12
+    },
+    {
+      "height": 8,
+      "width": 6
+    },
+    {
+      "height": 4,
+      "width": 3
+    },
+    {
+      "height": 2,
+      "width": 1
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1,
+        2
+      ],
+      "width": 512
+    }
+  ],
+  "width": 739
+}

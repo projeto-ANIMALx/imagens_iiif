@@ -1,0 +1,69 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://projeto-ANIMALx.github.io/imagens_omeka/resultado//MC_GRA_0756",
+  "height": 480,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 480,
+      "width": 291
+    },
+    {
+      "height": 240,
+      "width": 146
+    },
+    {
+      "height": 120,
+      "width": 73
+    },
+    {
+      "height": 60,
+      "width": 36
+    },
+    {
+      "height": 30,
+      "width": 18
+    },
+    {
+      "height": 15,
+      "width": 9
+    },
+    {
+      "height": 8,
+      "width": 5
+    },
+    {
+      "height": 4,
+      "width": 2
+    },
+    {
+      "height": 2,
+      "width": 1
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1
+      ],
+      "width": 512
+    }
+  ],
+  "width": 291
+}

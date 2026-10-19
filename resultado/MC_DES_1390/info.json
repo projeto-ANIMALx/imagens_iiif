@@ -1,0 +1,65 @@
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://projeto-ANIMALx.github.io/imagens_omeka/resultado//MC_DES_1390",
+  "height": 474,
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "formats": [
+        "jpg"
+      ],
+      "qualities": [
+        "default"
+      ]
+    }
+  ],
+  "protocol": "http://iiif.io/api/image",
+  "sizes": [
+    {
+      "height": 237,
+      "width": 320
+    },
+    {
+      "height": 119,
+      "width": 160
+    },
+    {
+      "height": 59,
+      "width": 80
+    },
+    {
+      "height": 30,
+      "width": 40
+    },
+    {
+      "height": 15,
+      "width": 20
+    },
+    {
+      "height": 7,
+      "width": 10
+    },
+    {
+      "height": 4,
+      "width": 5
+    },
+    {
+      "height": 2,
+      "width": 3
+    },
+    {
+      "height": 1,
+      "width": 1
+    }
+  ],
+  "tiles": [
+    {
+      "height": 512,
+      "scaleFactors": [
+        1
+      ],
+      "width": 512
+    }
+  ],
+  "width": 640
+}
