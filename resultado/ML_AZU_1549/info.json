@@ -1,6 +1,6 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
-  "@id": "https://projeto-ANIMALx.github.io/imagens_omeka/resultado//ML_AZU_1549",
+  "@id": "https://projeto-ANIMALx.github.io/imagens_iiif/resultado/ML_AZU_1549",
   "height": 1080,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
