@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "https://projeto-ANIMALx.github.io/imagens_iiif/resultado/MC_GRA_1443",
-  "height": 284,
+  "height": 701,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
@@ -16,36 +16,36 @@
   "protocol": "http://iiif.io/api/image",
   "sizes": [
     {
-      "height": 284,
-      "width": 405
+      "height": 351,
+      "width": 500
     },
     {
-      "height": 142,
-      "width": 203
+      "height": 175,
+      "width": 250
     },
     {
-      "height": 71,
-      "width": 101
+      "height": 88,
+      "width": 125
     },
     {
-      "height": 36,
-      "width": 51
+      "height": 44,
+      "width": 63
     },
     {
-      "height": 18,
-      "width": 25
+      "height": 22,
+      "width": 31
     },
     {
-      "height": 9,
-      "width": 13
+      "height": 11,
+      "width": 16
     },
     {
-      "height": 4,
-      "width": 6
+      "height": 5,
+      "width": 8
     },
     {
-      "height": 2,
-      "width": 3
+      "height": 3,
+      "width": 4
     },
     {
       "height": 1,
@@ -65,5 +65,5 @@
       "width": 512
     }
   ],
-  "width": 405
+  "width": 1000
 }

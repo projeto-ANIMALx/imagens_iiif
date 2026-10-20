@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "https://projeto-ANIMALx.github.io/imagens_iiif/resultado/MC_DES_1288",
-  "height": 480,
+  "height": 1356,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
@@ -16,40 +16,36 @@
   "protocol": "http://iiif.io/api/image",
   "sizes": [
     {
-      "height": 480,
-      "width": 354
+      "height": 339,
+      "width": 250
     },
     {
-      "height": 240,
-      "width": 177
+      "height": 170,
+      "width": 125
     },
     {
-      "height": 120,
-      "width": 89
+      "height": 85,
+      "width": 63
     },
     {
-      "height": 60,
-      "width": 44
+      "height": 42,
+      "width": 31
     },
     {
-      "height": 30,
-      "width": 22
+      "height": 21,
+      "width": 16
     },
     {
-      "height": 15,
-      "width": 11
+      "height": 11,
+      "width": 8
     },
     {
-      "height": 8,
-      "width": 6
+      "height": 5,
+      "width": 4
     },
     {
-      "height": 4,
-      "width": 3
-    },
-    {
-      "height": 2,
-      "width": 1
+      "height": 3,
+      "width": 2
     },
     {
       "height": 1,
@@ -60,10 +56,11 @@
     {
       "height": 512,
       "scaleFactors": [
-        1
+        1,
+        2
       ],
       "width": 512
     }
   ],
-  "width": 354
+  "width": 1000
 }

@@ -1,7 +1,7 @@
 {
   "@context": "http://iiif.io/api/image/2/context.json",
   "@id": "https://projeto-ANIMALx.github.io/imagens_iiif/resultado/MC_ESC_0105",
-  "height": 168,
+  "height": 866,
   "profile": [
     "http://iiif.io/api/image/2/level0.json",
     {
@@ -16,35 +16,39 @@
   "protocol": "http://iiif.io/api/image",
   "sizes": [
     {
-      "height": 168,
-      "width": 194
+      "height": 433,
+      "width": 500
     },
     {
-      "height": 84,
-      "width": 97
+      "height": 217,
+      "width": 250
     },
     {
-      "height": 42,
-      "width": 49
+      "height": 108,
+      "width": 125
     },
     {
-      "height": 21,
-      "width": 24
+      "height": 54,
+      "width": 63
     },
     {
-      "height": 11,
-      "width": 12
+      "height": 27,
+      "width": 31
     },
     {
-      "height": 5,
-      "width": 6
+      "height": 14,
+      "width": 16
+    },
+    {
+      "height": 7,
+      "width": 8
     },
     {
       "height": 3,
-      "width": 3
+      "width": 4
     },
     {
-      "height": 1,
+      "height": 2,
       "width": 2
     },
     {
@@ -61,5 +65,5 @@
       "width": 512
     }
   ],
-  "width": 194
+  "width": 1000
 }
